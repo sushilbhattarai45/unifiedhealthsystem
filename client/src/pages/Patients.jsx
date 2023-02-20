@@ -158,7 +158,7 @@ const Patients = () => {
                             }}
                           >
                             <img
-                              src="/public/assets/avatar.jpeg"
+                              src="/assets/avatar.jpeg"
                               className={styles.img}
                             />{" "}
                           </NavLink>

@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  border-width: 0;
+  border-style: solid;
+}
+
+/*Color Defining*/
+:root{
+  --primary:#0197f6;
+  --light-primary:#24a6f7;
+  --bg:#F5F5F5;
+  --white:#f6f7f8;
+}
+
+html,body{
+    padding:0;
+    margin:0;
+    font-family: "Poppins",sans-serif;
+    background-color: var(--bg);
+}
+.layout_container{
+  padding-left:130px;
+  padding-right: 50px;
+  padding-top:20px;
+}

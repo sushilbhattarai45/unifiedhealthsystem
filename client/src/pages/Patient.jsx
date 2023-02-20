@@ -46,7 +46,7 @@ const Patient = () => {
         <div className={styles.row}>
           <img
             className={styles.patient_image}
-            src="/public/assets/avatar.jpeg"
+            src="/assets/avatar.jpeg"
             alt="Profile Image"
           />
           <div className={styles.profileContent}>
